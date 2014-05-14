@@ -6,7 +6,7 @@
 
 ---  
 
-FaceBook application built for [Sky Lakes Medical Center](http://www.skylakes.org) topromote weight loss and improved overall health. Engaging the public through social media by offering a custom Sky Lakes Pedometer for liking the page. 
+FaceBook application built for [Sky Lakes Medical Center](http://www.skylakes.org) to promote weight loss and improved overall health. Engaging the public through social media by offering a custom Sky Lakes Pedometer for liking the page. 
 
 ### Built with:  
   
